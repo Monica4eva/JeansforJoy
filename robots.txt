@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeansforjoy.com/sitemap.xml
+Sitemap: https://www.jeansforjoy.com/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/index", "destination": "/", "permanent": true },
+    { "source": "/mamas", "destination": "/mamas-table", "permanent": true },
+    { "source": "/parade", "destination": "/denim-parade", "permanent": true }
+  ]
+}
